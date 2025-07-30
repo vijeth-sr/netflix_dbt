@@ -1,4 +1,3 @@
-# netflix_dbt
 # Netflix Viewing Analytics Platform
 
 This project is a modular **data transformation pipeline** built using [dbt (data build tool)](https://www.getdbt.com/) on a Netflix viewing dataset. It simulates a modern data stack that includes staging, dimensional modeling, snapshotting, and mart layers to power robust analytics.
